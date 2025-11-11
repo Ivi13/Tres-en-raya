@@ -1,4 +1,4 @@
-#IMportaciones
+#Importaciones
 from ttt_core import *
 #Definiciones
 def jugar():
@@ -52,4 +52,5 @@ def jugar():
                 else:
                     jugador = 1
     print("Fin del juego")
+
 jugar()
